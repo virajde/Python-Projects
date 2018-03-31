@@ -1,6 +1,7 @@
 # Python-Projects
 
 ## 1. Shopping-List Project: 
+### This is a a reminders console app build using the basics of Python like numbers, lists, strings 
 *Below are the things used to build this project*
 1. OS module used to clear the screen i.e. `if os.name == "nt" then os.system("cls")`
 2. List is used to hold the items and append method is used to add items to the list
